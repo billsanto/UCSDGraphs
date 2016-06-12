@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UCSDGraphs.iml" filepath="$PROJECT_DIR$/UCSDGraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/geotools/geotools.iml" filepath="$PROJECT_DIR$/src/geotools/geotools.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Updated rock throwing map</name>
+		<description><![CDATA[Locations of reported rocks being thrown at vehicles in Austin June 2014-Nov. 2015]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>6/1/2014 2:00 a.m.</name>
+				<description><![CDATA[3500 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7208312,30.2929106,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6/14/2014 2:37 a.m.</name>
+				<description><![CDATA[3250 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-009D57</styleUrl>
+				<Point>
+					<coordinates>-97.721381,30.2915719,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6/29/2014 4:42 a.m.</name>
+				<description><![CDATA[3200 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7214669,30.291414500000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/13/2014 2:00 a.m.</name>
+				<description><![CDATA[3000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<Point>
+					<coordinates>-97.721888,30.2908586,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/27/2014 3:16 a.m.</name>
+				<description><![CDATA[4000 block N. I-35 NB lower deck]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<Point>
+					<coordinates>-97.71842120000001,30.296689000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/27/2014 3:42 a.m.</name>
+				<description><![CDATA[3500 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<Point>
+					<coordinates>-97.7208701,30.2929326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7/27/2014 4:31 a.m.</name>
+				<description><![CDATA[5000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<Point>
+					<coordinates>-97.7154547,30.301482800000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/12/2014 2:40 a.m.</name>
+				<description><![CDATA[3166 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<Point>
+					<coordinates>-97.7287745,30.2802495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/12/2014 3:00 a.m.</name>
+				<description><![CDATA[N. I-35 SVRD NB/E. 38th 1/2 St. ]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<Point>
+					<coordinates>-97.719419,30.2947946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/12/2014 3:00 a.m.</name>
+				<description><![CDATA[N. I-35 SVRD NB/E. 32nd St.]]></description>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<Point>
+					<coordinates>-97.7231312,30.289148199999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/1/2014 2:10 a.m.</name>
+				<description><![CDATA[2200 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7274227,30.282283200000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 1:30 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7197623,30.2942017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 1:33 a.m.</name>
+				<description><![CDATA[4100 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7081911,30.31418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 1:50 a.m.</name>
+				<description><![CDATA[3800 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7197194,30.2941971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 2:00 a.m.</name>
+				<description><![CDATA[4000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7081911,30.31418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 2:00 a.m.</name>
+				<description><![CDATA[2000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7293968,30.2792998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/2/2014 3:00 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7198106,30.2942481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/11/2014 12:48 p.m.</name>
+				<description><![CDATA[4000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.718271,30.296633400000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2/7/2015 1:01 a.m.</name>
+				<description><![CDATA[N. I-35 SVRD NB/E. 38th 1/2 St. ]]></description>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<Point>
+					<coordinates>-97.7196282,30.294864099999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/12/2015 5:00 p.m.</name>
+				<description><![CDATA[2218 N. I-35 SB]]></description>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<Point>
+					<coordinates>-97.7275729,30.282473099999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/23/2015 11:50 p.m.</name>
+				<description><![CDATA[2400 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<Point>
+					<coordinates>-97.7253413,30.285549,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/17/2015 2:00 a.m.</name>
+				<description><![CDATA[1800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7322614,30.2720171,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/17/2015 4:00 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<Point>
+					<coordinates>-97.7198347,30.2941902,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>6/7/2015 2:40 a.m.</name>
+				<description><![CDATA[3000 N. I-35 SVRD NB]]></description>
+				<styleUrl>#icon-503-795046</styleUrl>
+				<Point>
+					<coordinates>-97.7233592,30.288580799999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9/27/2015 3:29 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7194807,30.2946696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9/27/2015 4:03 a.m.</name>
+				<description><![CDATA[N. I-35/51st St.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7102458,30.3094673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/10/2015 2:45 a.m.</name>
+				<description><![CDATA[2200 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7274263,30.28312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/18/2015 3:30 a.m.</name>
+				<description><![CDATA[3800 N. I-35 SVRD NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7151436,30.301807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/18/2015 3:34 a.m.</name>
+				<description><![CDATA[Airport Blvd. I-35 on ramp]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7161306,30.3012605,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10/24/2015 2:34 a.m.</name>
+				<description><![CDATA[4400 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7079955,30.3141631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/4/2015 4:00 p.m.</name>
+				<description><![CDATA[3800 block of N. I-35 SVRD SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7197462,30.2943106,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/5/2015 12:24 a.m.</name>
+				<description><![CDATA[3200 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7224123,30.2901904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/5/2015 10:58 p.m.</name>
+				<description><![CDATA[N. I-35/38th 1/2 St.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.719588,30.2947668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/7/2015 12:23 a.m.</name>
+				<description><![CDATA[11200 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6761925,30.3767628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/7/2015 12:28 a.m.</name>
+				<description><![CDATA[2000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7294022,30.2792303,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/15/2015 2:44 a.m.</name>
+				<description><![CDATA[9500 N. I-35 NB. Uber driver said his car was hit by a rock.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.68279100000001,30.365509000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/20/2015 11:55 p.m.</name>
+				<description><![CDATA[3900 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7185875,30.2961517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11/22/15 1:30 a.m.</name>
+				<description><![CDATA[9000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.68279100000001,30.365509000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/5/2015 2:46 a.m.</name>
+				<description><![CDATA[14100 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.670517,30.4292855,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/5/2015 3:30 a.m.</name>
+				<description><![CDATA[3000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7221656,30.290737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 1:44 a.m.</name>
+				<description><![CDATA[5100 block of N. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7100474,30.3098192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 2:00 a.m.</name>
+				<description><![CDATA[1100 S. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7326262,30.2708728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 2:30 a.m.</name>
+				<description><![CDATA[12200 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.672019,30.395893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 2:38 a.m.</name>
+				<description><![CDATA[11400 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6752698,30.3783548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 2:45 a.m.</name>
+				<description><![CDATA[11000 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6768684,30.3758557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12/12/2015 3:12 a.m.</name>
+				<description><![CDATA[11400 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6751572,30.3783085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1/3/2016 12:33 a.m.</name>
+				<description><![CDATA[11200 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6759951,30.3770881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1/3/2016 12:46 a.m.</name>
+				<description><![CDATA[N. I-35 SVRD NB/E. Cesar Chavez St.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7371216,30.260994700000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1/10/2016 1:30 a.m.</name>
+				<description><![CDATA[12300 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.67365159999997,30.398754199999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1/10/2016 2:00 a.m.</name>
+				<description><![CDATA[1000 S. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.73580950000002,30.248320899999985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1/17/2016 12:30 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7193868,30.2947483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/4/2016 1:07 a.m.</name>
+				<description><![CDATA[Holly St./N. I-35 SVRD NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7365851,30.2571211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/4/2016 1:10 a.m.</name>
+				<description><![CDATA[2600 S. I-35 SVRD SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7271438,30.2828483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/6/2016 2:33 a.m.</name>
+				<description><![CDATA[2800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7247888,30.2864569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/18/2016 2:55 a.m.</name>
+				<description><![CDATA[3800 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7196229,30.294438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3/18/2016 2:58 a.m.</name>
+				<description><![CDATA[2400 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7290857,30.2797909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/2/2016 2:30 a.m.</name>
+				<description><![CDATA[100 N. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7372235,30.2572184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/2/2016 3:00 a.m.</name>
+				<description><![CDATA[400 N. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7349436,30.2646922,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/3/2016 2:50 a.m.</name>
+				<description><![CDATA[5400 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.706126,30.325980600000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/3/2016 3:00 a.m.</name>
+				<description><![CDATA[1600 block of S. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7362338,30.242202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/3/2016 3:15 a.m.</name>
+				<description><![CDATA[2600 block of S. I-35 SB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7432156,30.2304926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/30/2016 9:40 p.m.</name>
+				<description><![CDATA[4300 N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7155781,30.3014272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/30/2016 9:45 p.m.</name>
+				<description><![CDATA[4000 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7161896,30.3003156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/30/2016 10:15 p.m.</name>
+				<description><![CDATA[N. I-35 SVRD NB/E. MLK Jr. Blvd.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7298313,30.2784937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/30/2016 10:17 p.m.</name>
+				<description><![CDATA[1000 S. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7353513,30.2475197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4/30/2016 10:22 p.m.</name>
+				<description><![CDATA[900 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.7336401,30.2682319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/15/2016 2:30 a.m.</name>
+				<description><![CDATA[1800 block of N. I-35 NB]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.729547,30.2792767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/20/2016 9:44 p.m.</name>
+				<description><![CDATA[Location: 3200 N Interstate Hwy 35 (northbound lower deck)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.70819110000002,30.31417999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/21/2016 10:18 p.m.</name>
+				<description><![CDATA[Location: 3200 N Interstate Hwy 35 (northbound lower deck)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.70819110000002,30.31417999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/21/2015 10:44 p.m.</name>
+				<description><![CDATA[Location: 1100 S IH 35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.73605789999999,30.2471365,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/21/2016 11:15 p.m.</name>
+				<description><![CDATA[Location: 1800 N Interstate 35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.71298869999998,30.30586459999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 1:34 a.m.</name>
+				<description><![CDATA[1000 N Interstate 35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.73366800000002,30.2696747,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 2:20 a.m.</name>
+				<description><![CDATA[Location: 4400 N Interstate Hwy 35 (lower deck)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.70819110000002,30.31417999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 2:22 a.m.</name>
+				<description><![CDATA[Location: 4400 N Interstate Hwy 35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.70819110000002,30.31417999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 3:25 a.m.</name>
+				<description><![CDATA[9500 blk N. I-35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.6880908,30.3584342,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 8:36 a.m.</name>
+				<description><![CDATA[Location: 9800 S. I-35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.79357700000003,30.156233,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 8:15 p.m.</name>
+				<description><![CDATA[1800 blk N. I-35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.71298869999998,30.30586459999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 9:57 p.m.</name>
+				<description><![CDATA[90 I-35 N. (southbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.73739899999998,30.26004760000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 10 p.m.</name>
+				<description><![CDATA[Location: 1400 N Interstate 35 (southbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.73266590000003,30.2738613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5/22/2016 10:22 p.m.</name>
+				<description><![CDATA[Location: 5100 N Interstate Hwy 35 (northbound)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>-97.70819110000002,30.31417999999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-009D57-normal'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-009D57-highlight'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-009D57'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-009D57-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-009D57-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-0BA9CC-normal'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-0BA9CC-highlight'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-0BA9CC'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-0BA9CC-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-0BA9CC-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-795046-normal'>
+			<IconStyle>
+				<color>ff465079</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-795046-highlight'>
+			<IconStyle>
+				<color>ff465079</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-795046'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-795046-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-795046-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-7C3592-normal'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-7C3592-highlight'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-7C3592'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-7C3592-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-7C3592-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-9FC3FF-normal'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-9FC3FF-highlight'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-9FC3FF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-9FC3FF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-9FC3FF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-A61B4A-normal'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-A61B4A-highlight'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-A61B4A'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-A61B4A-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-A61B4A-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-C6A4CF-normal'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-C6A4CF-highlight'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-C6A4CF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-C6A4CF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-C6A4CF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-EE9C96-normal'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-EE9C96-highlight'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-EE9C96'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-EE9C96-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-EE9C96-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
